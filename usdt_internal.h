@@ -11,7 +11,7 @@
 #endif
 #endif
 
-#include <sys/dtrace.h>
+#include <sys/dtrace_dof.h>
 #include <sys/types.h>
 #include <sys/mman.h>
 

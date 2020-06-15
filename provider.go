@@ -1,6 +1,7 @@
 package usdt
 
 /*
+#cgo CFLAGS: -I/usr/include
 #include <stdlib.h>
 #include "usdt.h"
 */
