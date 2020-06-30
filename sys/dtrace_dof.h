@@ -32,9 +32,7 @@
 #ifndef DTRACE_DOF_H
 #define	DTRACE_DOF_H
 
-#include <endian.h>
-
-#define _BIG_ENDIAN __BIG_ENDIAN
+#include <sys/types.h>
 
 typedef unsigned int uint_t;
 
